@@ -1,5 +1,3 @@
-## 坏了，有没有人提交代码诶，我不会修（
-### 期待有人pr（
 # LCG
 开源吾爱破解论坛APP
 
@@ -16,7 +14,10 @@ UI参考了知乎、虎扑App及头条系各app的展示, 架构参考了Google�
 - 支持阅读记录，避免错过内容
 - 支持自动签到
 
-## 相关技术
-- 使用最新流行的[Coil](https://coil-kt.github.io/coil/)替换了Glide
-- 参考并重写了[HtmlTextView](https://github.com/SufficientlySecure/html-textview)
-- 做了App崩溃的自动重启，请参考代码AppGuard
+## Frok分支做了一些优化，具体请看更新日志
+
+## 赞助
+
+<p align="center">
+  <img src="https://free.picui.cn/free/2026/05/29/6a19262a15418.png" width="100%" alt="赞助图片">
+</p>
