@@ -19,5 +19,5 @@ UI参考了知乎、虎扑App及头条系各app的展示, 架构参考了Google�
 ## 赞助
 
 <p align="center">
-  <img src="https://free.picui.cn/free/2026/05/29/6a19262a15418.png" width="100%" alt="赞助图片">
+  <img src="https://free.picui.cn/free/2026/06/24/6a3b25866f0fd.jpg" width="100%" alt="赞助图片">
 </p>
